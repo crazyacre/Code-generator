@@ -1,0 +1,1 @@
+generate codes for visits
